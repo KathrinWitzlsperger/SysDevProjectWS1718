@@ -1,0 +1,11 @@
+de\lmu\datascience\sysdev\POJO\RequestBody.class
+de\lmu\datascience\sysdev\QuadTree\QuadNode.class
+de\lmu\datascience\sysdev\TCPClientServer\RequestHandler.class
+de\lmu\datascience\sysdev\POJO\Marker.class
+de\lmu\datascience\sysdev\QuadTree\QuadTree.class
+de\lmu\datascience\sysdev\RoadNetwork\Network.class
+de\lmu\datascience\sysdev\RoadNetwork\Coordinate.class
+de\lmu\datascience\sysdev\TCPClientServer\Server.class
+de\lmu\datascience\sysdev\TCPClientServer\Listener.class
+de\lmu\datascience\sysdev\RoadNetwork\Node.class
+de\lmu\datascience\sysdev\RoadNetwork\Edge.class
